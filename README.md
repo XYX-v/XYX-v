@@ -9,7 +9,7 @@
 
 ## My Skills
 *   Languages: Python
-*   Tools: Git, VS Code
+*   Tools: Git, VS Code, Pycharm
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XYX-v&show_icons=true&theme=radical)
