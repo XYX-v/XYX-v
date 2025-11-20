@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm [XYX-v]! 👋
 
-<!--
-**XYX-v/XYX-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently learning **Git, GitHub, and Web Development**.
+- 🌱 My interests include: Programming, Drawing, and Music.
+- 💬 Ask me about ... anything!
+- 📫 How to reach me: [2725055014@qq.com]
+- ⚡ Fun fact: I love coding and coffee!
 
-Here are some ideas to get you started:
+## My Skills
+*   Languages: Python
+*   Tools: Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XYX-v&show_icons=true&theme=radical)
