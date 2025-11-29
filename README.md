@@ -3,7 +3,7 @@
 ## About Me
 - 🔭 I’m currently learning **Git, GitHub, and Web Development**.
 - 🌱 My interests include: Programming, Drawing, and Music.
-- 💬 Ask me about ... anything!
+- 💬 Ask me about anything!
 - 📫 How to reach me: [2725055014@qq.com]
 - ⚡ Fun fact: I love coding and coffee!
 
